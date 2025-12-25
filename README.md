@@ -6,9 +6,9 @@ Este projeto foi elaborado como forma de **treinar e consolidar meus conheciment
 
 ## 🖼️ Demonstração  
 
-![Screenshot do Projeto](preview.jpg)  
+![Screenshot do Projeto](preview.png)  
 
-👉 [Acesse o projeto online](https://seuusuario.github.io/nome-do-projeto/)  
+👉 [Acesse o projeto online](https://brrn91.github.io/calculadora/)  
 
 ---
 
@@ -18,7 +18,7 @@ Este projeto foi elaborado como forma de **treinar e consolidar meus conheciment
 - **CSS3** – Estilização, layout e responsividade  
 - **JavaScript (ES6+)** – Interatividade e manipulação do DOM  
 - **Flexbox / Grid** para organização do layout  
-- Fonte personalizada via **Google Fonts** (quando aplicável)  
+- Fonte personalizada via **Google Fonts**
 
 ---
 
