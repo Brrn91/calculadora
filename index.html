@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="estilos/style.css">
+  <title>Calculadora</title>
+</head>
+
+<body>
+
+  <div id="calculadora">
+    <input type="text" id="display" readonly>
+    <div id="teclas">
+      <button onclick="adicionarNaTela('+')">+</button>
+      <button onclick="adicionarNaTela('7')">7</button>
+      <button onclick="adicionarNaTela('8')">8</button>
+      <button onclick="adicionarNaTela('9')">9</button>
+      <button onclick="adicionarNaTela('-')">-</button>
+      <button onclick="adicionarNaTela('4')">4</button>
+      <button onclick="adicionarNaTela('5')">5</button>
+      <button onclick="adicionarNaTela('6')">6</button>
+      <button onclick="adicionarNaTela('*')">*</button>
+      <button onclick="adicionarNaTela('1')">1</button>
+      <button onclick="adicionarNaTela('2')">2</button>
+      <button onclick="adicionarNaTela('3')">3</button>
+      <button onclick="adicionarNaTela('/')">/</button>
+      <button onclick="adicionarNaTela('0')">0</button>
+      <button onclick="adicionarNaTela('.')">.</button>
+      <button onclick="calcular()">=</button>
+      <button onclick="apagar()">c</button>
+    </div>
+  </div>
+
+  <script src="scripts/main.js"></script>
+</body>
+
+</html>
