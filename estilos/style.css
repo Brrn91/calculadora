@@ -52,14 +52,14 @@ button:active {
   background-color: hsl(0, 0%, 50%);
 }
 
-#operador-btn {
+.operador-btn {
   background-color: hsl(35, 100%, 55%);
 }
 
-#operador-btn:hover {
+.operador-btn:hover {
   background-color: hsl(35, 100%, 65%);
 }
 
-#operador-btn:active {
+.operador-btn:active {
   background-color: hsl(35, 100%, 75%);
 }
